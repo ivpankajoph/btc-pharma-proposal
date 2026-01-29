@@ -338,7 +338,7 @@ const App: React.FC = () => {
               </div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/10">
                 <img 
-                  src="https://images.unsplash.com/photo-1532187875605-18e88fe84165?auto=format&fit=crop&q=80&w=1000" 
+                  src="https://res.cloudinary.com/diw1baz8c/image/upload/v1769669349/6be3e539-25f2-4a06-be60-7d7826e967e8_jvhlfp.jpg" 
                   alt="Industrial Chemical Lab" 
                   className="w-full h-[450px] object-cover hover:scale-105 transition-transform duration-1000"
                 />
